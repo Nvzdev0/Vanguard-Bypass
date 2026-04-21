@@ -2,7 +2,7 @@
 About An example on how you can popup the error "VAN:RESTRICTION" &amp; use some stuff even if it's detected on Valorant.
 
 # Is this detected? 
-Probably, you'll get temp banned after 1-3 game. that's why i stopped using it in the first place and switched to new methods
+Probably, you'll get temp banned after 1-3 game. that's why i stopped using it in the first place and switched to new methods. last time this project was used was 1-2 months ago.
 
 # How to use?
 1) Download the .zip file.
