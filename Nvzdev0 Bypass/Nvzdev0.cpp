@@ -460,37 +460,44 @@ void MatchEnd() {
 }
 
 int main() {
-	int choice;
+    int choice;
 
-	cout << "=== Nvzdev0 Vanguard Bypass ===" << endl;
-	cout << "1. Popup Bypass" << endl;
-	cout << "2. Emulate Vanguard ( In Game Players Screen )" << endl;
-	cout << "3. Exit Emulation ( After Your Game Match Ends )" << endl;
-	cout << "Enter your choice: ";
-	cin >> choice;
+    while (true) {
+        cout << "=== Nvzdev0 Vanguard Bypass ===" << endl;
+        cout << "1. Popup Bypass" << endl;
+        cout << "2. Emulate Vanguard ( In Game Players Screen )" << endl;
+        cout << "3. Exit Emulation ( After Your Game Match Ends )" << endl;
+        cout << "4. Exit" << endl;
+        cout << "Enter your choice: ";
+        cin >> choice;
 
-	switch (choice) {
-	case 1:
-		Popup();
-		cout << "Done.." << endl;
-		break;
+        switch (choice) {
+        case 1:
+            Popup();
+            cout << "Done.." << endl;
+            break;
 
-	case 2:
-		Emulation();
-		cout << "Done.." << endl;
-		break;
+        case 2:
+            Emulation();
+            cout << "Done.." << endl;
+            break;
 
-	case 3:
-		MatchEnd();
-		cout << "Done.." << endl;
-		break;
+        case 3:
+            MatchEnd();
+            cout << "Done.." << endl;
+            break;
 
-	default:
-		cout << "Invalid Choice!" << endl;
-		break;
-	}
+        case 4:
+            cout << "Exiting..." << endl;
+            return 0;
 
-	return 0;
+        default:
+            cout << "Invalid Choice!" << endl;
+            break;
+        }
+    }
+
+    return 0;
 }
 
 //-------------------------------------------------------------------------------Nvzdev0-------------------------------------------------------------------------------
