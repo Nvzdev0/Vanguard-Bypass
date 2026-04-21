@@ -7,7 +7,7 @@ Probably, you'll get temp banned after 1-3 game. that's why i stopped using it i
 # How to use?
 1) Download the .zip file.
 2) run the .slnx file 
-3) add the fake exe nammed "vgc.exe" as bytes nammed "embadedExe" then uncomment the exe's part in the code.
+3) add the fake exe nammed "vgc.exe" as bytes nammed "embadedExe" then uncomment the exe's part.
 4) Build the project as x64 release.
 5) Run the code as administrator.
 6) Run the popup bypass and do the steps the app asks u to do 
