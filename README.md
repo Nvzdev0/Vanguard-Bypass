@@ -11,7 +11,7 @@ Probably, you'll get temp banned after 1-3 game. that's why i stopped using it i
 4) Build the project as x64 release.
 5) Run the code as administrator.
 6) Run the popup bypass and do the steps the app asks u to do 
-7) once in the 5vs5 Screen use the Emulate Vanguard Choice & inject ur thingy
+7) once in the 5vs5 Screen use the Emulate Vanguard Choice & inject ur thingy after opening the game again 
 8) after the match ends use the Match end Choice
 
 # Disclaimer
